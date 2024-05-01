@@ -1,0 +1,7 @@
+{
+    "database": "mongodb://sepehrac_colliders:colliders123@localhost:27017/sepehrac_colliders",
+    "jwtPrivateKey": "myKey",
+    "logfile": "logFile.log",
+    "EMAIL_ADDRESS": "EMAIL_ADDRESS",
+    "NODEMAILER_PASSWORD": "NODEMAILER_PASSWORD"
+}
